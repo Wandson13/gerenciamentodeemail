@@ -1,6 +1,6 @@
 # gerenciamentodeemail
 
-Gerenciamento de Email no Ubuntu Server
+Gerenciamento de Email no Ubuntu Server.
 
 ----
 
